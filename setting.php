@@ -1,6 +1,6 @@
 <?php
 function site_url($value=''){
-	return 'http://localhost/worklog/'.$value;
+	return 'http://www.facebook.com/'.$value;
 }
 
 function ss(){
